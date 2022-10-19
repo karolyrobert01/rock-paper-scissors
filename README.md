@@ -7,5 +7,5 @@ link: https://shrek.unideb.hu/~karolyrobert/webes1/
 
 ![game](https://user-images.githubusercontent.com/78788457/196678116-f52ea32f-d4e6-4f54-834e-4285ba0a6029.png)
 
-Károly Róbert/Debrecen/2022.03.08.
+Károly Róbert|Debrecen|2022.03.08.
 
